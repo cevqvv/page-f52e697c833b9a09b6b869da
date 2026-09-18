@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "6d97ea40e1fcb7d3874defdc",
+  "owner": "cevqvv",
+  "repo": "page-f52e697c833b9a09b6b869da",
+  "title": "oixCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f52e697c833b9a09b6b869da",
+      "a": "oixCloud",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "oixCloud",
+      "brand": "oixCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ec5a8dc92909babaa7c06fd82acccdc6c37b2cfc247a772357c1ba09e696527c",
+      "content": {
+        "primary_entity": "oixCloud",
+        "keyword1": "oixCloud",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_HERO_SUBTITLE": "oixCloud 全球节点加速服务",
+          "AI_HERO_INTRO": "oixCloud 面向需要稳定海外连接的用户，提供多档位订阅套餐与常见客户端配置支持。可按设备数量、月流量和用途选择基础版、旗舰版或团队版，再依照客户端文档导入订阅信息即可使用。",
+          "AI_VISUAL_TITLE": "oixCloud 加速选择",
+          "AI_HIGHLIGHT_1": "多档套餐按需选择",
+          "AI_HIGHLIGHT_2": "覆盖常见桌面移动客户端",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_DESCRIPTION": "，oixCloud 提供基础版、旗舰版和团队版三档订阅方案，分别对应不同月流量与设备在线数量。基础版适合轻度使用，旗舰版面向流媒体与游戏加速需求，团队版则满足多人多设备共享。用户可先确认设备类型与所需流量，再按照对应客户端文档完成订阅配置。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从日常使用场景出发，先确定设备数量和流量需求，再对照订阅周期选择合适方案。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台，按实际联网设备数挑选更合适。",
+          "AI_FEATURE_TITLE_2": "按月流量定档位",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB，根据观看视频或游戏加速的用量判断。",
+          "AI_FEATURE_TITLE_3": "年付周期更灵活",
+          "AI_FEATURE_TEXT_3": "各档均提供月付与年付选择，按年付仅需支付十个月费用，长期使用可优先考虑年付方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备适合的客户端不同，请根据操作系统下载并安装对应程序。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量和节点权益上逐级提升，可按使用人数和预算直接对比选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按顺序完成选择套餐、确认适配和配置订阅，即可开始连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中选定一档并完成订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与客户端版本是否符合使用条件，必要时先更新操作系统。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_STEP_TEXT_3": "打开所选客户端，依照对应文档导入订阅链接或配置文件，保存后即可连接节点。",
+          "AI_CLOSING_TITLE": "选对档位轻松连接",
+          "AI_CLOSING_TEXT": "先比套餐再配客户端，oixCloud 让海外访问更省心。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机加电脑的轻量使用场景。",
+          "AI_FAQ_ANSWER_2": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，按月付费也可随时切换。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持 5 台设备，团队版支持 20 台设备，覆盖手机、平板、电脑等常用终端。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中添加订阅地址，更新节点后选择对应线路连接；具体步骤可参考客户端自带文档。",
+          "AI_FAQ_ANSWER_5": "先确认主要使用的设备数量与月流量需求，再对比各套餐年付价格，旗舰版适合多设备流媒体与游戏加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_3": "一个账号最多能在几台设备上使用？",
+          "AI_FAQ_QUESTION_4": "如何在客户端里导入订阅？",
+          "AI_FAQ_QUESTION_5": "怎么判断该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "237ff6b51fc5023916584ea189875dfa730d47300247d44b49409edde5f91455",
+    "sitemap.xml": "4511c0657f5a7b2dfdf389232be3acb823a4056feba08225e1ba1f6962b8cb03",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e0c7daaf756f71297bba833a3aa57c194a6c52e7546f461d2a83e862e1987da5"
+}
